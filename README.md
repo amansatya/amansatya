@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm SATYA AMAN</h1>
 <h3 align="center">A passionate developer exploring the world of programming</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb57830.png">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="600">
+</p>
 
 - 🚀 I’m currently learning **DSA, Web Development, and Databases**  
 - 💬 Ask me about **Data Structures And Web Development**  
@@ -44,16 +46,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="60"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60"/>
   </a>
   <a href="https://www.oracle.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50"/>
