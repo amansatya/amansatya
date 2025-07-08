@@ -46,6 +46,10 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS" width="60"/>
   </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="Bootstrap" width="60"/>
+</a>
+
 </p>
 
 ### Backend:
